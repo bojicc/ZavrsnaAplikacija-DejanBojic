@@ -19,11 +19,14 @@ textarea {
     max-width: 280px;
 }
 
-
+#navbarColor01 {
+    background-color: #1abc9c;
+    padding-left: 20px;
+}
 
 .navbar {
     background-color: #1abc9c;
-    height:70px;
+    height: 70px;
 }
 
 .navbar-brand {
